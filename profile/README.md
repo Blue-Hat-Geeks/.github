@@ -2,4 +2,5 @@
 
 We know geek, so you don't have to
 
-## Contact Us:
+### Contact Us: 
+* [Email](mailto:foxboroconsults+bluehat@gmail.com)
